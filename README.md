@@ -56,7 +56,7 @@ The analysis confirmed that rental prices are significantly influenced by a comb
     * Properties on **Upper Floors** generally have the highest rental prices, followed by Medium and Lower floors.
     * This trend was consistent across most cities, though some, like Kolkata and Delhi, had limited data for upper-floor properties, affecting the analysis for those specific locations.
 
-![Average Rental Price by Floor Type](./assets/average_rental_by_floor)
+![Average Rental Price by Floor Type](./assets/average_rental_by_floor.png)
 *(Chart showing the significant difference in Average Rental Price by Floor Type)*
 
 ---
